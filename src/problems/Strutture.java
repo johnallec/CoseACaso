@@ -3,7 +3,7 @@ package problems;
 import java.util.ArrayList;
 
 public class Strutture {
-	public class SoluzioneTurni {
+	public class SoluzioneTurni implements StruttureInterface{
 		public ArrayList<String> turni;
 		public ArrayList<String> persone;
 		public ArrayList<String> soluzione;
